@@ -12,7 +12,7 @@ import java.util.List;
  */
 public interface DefaultService {
 
-    String COLLECTION_NAME = "aaa";
+    String COLLECTION_NAME = "my_collection";
 
     void addBook(Book book);
 
